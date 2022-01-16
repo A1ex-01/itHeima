@@ -1,0 +1,1 @@
+<view><detail-footer vue-id="3db16520-1" art_id="{{art_id}}" artitleData="{{artitleData}}" bind:__l="__l"></detail-footer><detail-content vue-id="3db16520-2" artitleData="{{artitleData}}" bind:__l="__l"></detail-content></view>

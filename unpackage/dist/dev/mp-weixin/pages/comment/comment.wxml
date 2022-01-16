@@ -1,0 +1,1 @@
+<view><block wx:if="{{commentator}}"><comment-info vue-id="1a371400-1" isParent="true" isCount="100" commentator="{{commentator}}" art_id="{{art_id}}" bind:__l="__l"></comment-info></block></view>

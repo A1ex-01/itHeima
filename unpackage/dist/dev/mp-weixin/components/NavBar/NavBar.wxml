@@ -1,0 +1,1 @@
+<view class="navbar"><view class="warp"><image class="img" src="../../static/imgs/toutiao_logo.png"></image><uni-icons class="search" style="font-size:50rpx;color:#fff;width:92rpx;height:100%;line-height:92rpx;" vue-id="4d82ab42-1" type="search" bind:__l="__l"></uni-icons></view></view>

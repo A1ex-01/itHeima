@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "/components/NavBar/NavBar",
+    "nav-list": "/components/NavList/NavList",
+    "swiper-item": "/components/swiperItem/swiperItem"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comment-info": "/components/CommentInfo/CommentInfo"
+  }
+}

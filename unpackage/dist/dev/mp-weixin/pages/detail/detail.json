@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "usingComponents": {
+    "detail-footer": "/components/DetailFooter/DetailFooter",
+    "detail-content": "/components/DetailContent/DetailContent"
+  }
+}

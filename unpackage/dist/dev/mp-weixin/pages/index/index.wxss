@@ -1,0 +1,10 @@
+
+.wec.data-v-57280228 {
+
+	position: fixed;
+	top: 0;
+	bottom: -100rpx;
+	left: 0;
+	right: 0;
+}
+
